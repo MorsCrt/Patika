@@ -33,24 +33,31 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 3-) Sıralamamız gereken sayı 16. İlk etapta 16 sayısı 27 sayısından küçük bir değere sahip olduğu için yer değiştirirler. Ancak bununla birlikte 16 sayısı 22 sayısından küçüktür, bu sebepten yer değiştirirler.
 
 [22,16,27|2,18,6] 
+
 [16,22,27|2,18,6] 
 
 4-) Sıralamamız gereken sayı 2. İlk etapta 2 sayısı ve 27 sayıları karşılaştırılır, 2 sayısı daha küçük bir değere sahip olduğundan yer değiştirirler. Daha sonra aynı karşılaştırma, koşullar çerçevesinde kadar devam eder.
 
 [16,22,2,27|18,6] 
+
 [16,2,22,27|18,6]
+
 [2,16,22,27|18,6]
 
 5-) Sıralamamız gereken sayı 18. İlk etapta 18 ve 27 sayıları karşılaştırılır. 18 sayısı 27 sayısından daha küçük bir değere sahip olduğundan yer değiştirirler. Daha sonra aynı karşılaştırma, koşullar çerçevesinde kadar devam eder.
 
 [2,16,22,18,27|6]
+
 [2,16,18,22,27|6]
 
 6-) 5-) Sıralamamız gereken sayı 6. İlk etapta 6 ve 27 sayıları karşılaştırılır. 6 sayısı 27 sayısından daha küçük bir değere sahip olduğundan yer değiştirirler. Daha sonra aynı karşılaştırma, koşullar çerçevesinde kadar devam eder.
 
 [2,16,18,22,6,27|]
+
 [2,16,18,6,22,27|]
+
 [2,16,6,18,22,27|]
+
 [2,6,16,18,22,27|]
 
 ##### Big-O gösterimini yazınız:
