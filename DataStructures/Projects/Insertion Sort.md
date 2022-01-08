@@ -16,8 +16,7 @@ Big-O gösterimini yazınız.
 
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-
+Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. // Bu soruda farklı anlamlar çıkabiliyor. Case'lerin karşılaştırma mı swap durumunda mı yoksa search durumunda mı ele alındığının belirtilmesi gerekli.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
