@@ -8,4 +8,4 @@
 
 5. Film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
-Not: Cevaplar, odev1.sql dosyası içindedir.
+Not: SQL sorguları odev1.sql içindedir. Çıktı sonuçları ise csv dosyası olarak export edilip aynı dizine yüklenmiştir.
